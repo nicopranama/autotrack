@@ -1,0 +1,6 @@
+17122023,Nico Pranama,Hatchback,Honda,2023,Brio,Gasoline,1500,CVT,1,198000000,198000000
+19122023,Nico Pranama,SUV,Wuling,2023,Almaz,Gasoline,1500,CVT,1,358000000,358000000
+20122023,Abyan Nandhiko,Mpv,Toyota,2023,Xenia,Gasoline,1500,Manual,1,253576000,253576000
+19122023,Fareza Azriel,Sedan,Toyota,2023,Corolla,Gasoline,1500,CVT,1,567750500,567750500
+21122023,Abyan Nandhiko,Suv,Honda,2023,Brv,Gasoline,1500,Manual,1,316500000,316500000
+01122023,Bryan,Suv,Daihatsu,2023,Terios,Gasoline,1500,Manual,1,265700000,265700000
