@@ -1,9 +1,9 @@
-AutoTrack
+## AutoTrack
 
 AutoTrack is a console-based application written in C that helps manage and analyze car sales data stored in a text file.  
 This project was developed as a final project for the Algorithm and Programming course at Bina Nusantara University.
 
-📌 Overview
+## Overview
 
 The AutoTrack application allows users to:
 
